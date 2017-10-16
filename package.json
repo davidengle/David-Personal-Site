@@ -12,18 +12,11 @@
         "template"
     ],
     "homepage": "https://startbootstrap.com/template-overviews/freelancer",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer/issues",
-        "email": "feedback@startbootstrap.com"
-    },
     "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
+ 
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer.git"
+        "url": "https://github.com/dengle1/David-website.git"
     },
     "dependencies": {
         "bootstrap": "^4.0.0-beta",
